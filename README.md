@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rahul Vijayvargiya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;System+Design+Writer;Problem+Solver" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Cloud+%26+Devops+Enthusiast;Builder;Problem+Solver" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -57,7 +57,11 @@ I'm a full-stack developer with experience in building modern web applications, 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvijay5&repo=store&theme=tokyonight" />
   </a>
   <!-- Replace getyourstay with your actual repository name -->
-  <a href="https://github.com/rahulvijay5/getyourstay">
+  <a href="https://github.com/rahulvijay5/travelone-web">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvijay5&repo=getyourstay&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/rahulvijay5/quizer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvijay5&repo=getyourstay&theme=tokyonight" />
   </a>
 </div>
@@ -69,15 +73,15 @@ I'm a full-stack developer with experience in building modern web applications, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvijay5&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvijay5&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding System Design: Database Selection Strategies](https://rahulvijay.site/blog/system-design-databases)
-- [Building Scalable Applications with Next.js and Redis](https://rahulvijay.site/blog/nextjs-redis-scaling)
-- [Cloud Deployment Strategies for Modern Web Applications](https://rahulvijay.site/blog/cloud-deployment-strategies)
+- [#30 Designing a Video Streaming Service](https://rahulvijay.site/blog/designing-a-video-streaming-service)
+- [#29 Designing a Scalable URL Shortener](https://rahulvijay.site/blog/designing-a-scalable-url-shortener)
+- [#28 Designing a Search System](https://rahulvijay.site/blog/designing-a-search-system)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
@@ -92,18 +96,11 @@ I'm passionate about building scalable systems and creating seamless user experi
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/rahulviijay5"><img src="https://img.shields.io/badge/-@rahulviijay5-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/rahulviijay"><img src="https://img.shields.io/badge/-@rahulviijay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rahul-viijay"><img src="https://img.shields.io/badge/-rahul--viijay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/rahulviijay"><img src="https://img.shields.io/badge/-@rahulviijay-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/rahul_vijay___"><img src="https://img.shields.io/badge/-@rahul_vijay___-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulvijay5&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
