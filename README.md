@@ -58,11 +58,11 @@ I'm a full-stack developer with experience in building modern web applications, 
   </a>
   <!-- Replace getyourstay with your actual repository name -->
   <a href="https://github.com/rahulvijay5/travelone-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvijay5&repo=getyourstay&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvijay5&repo=travelone-web&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/rahulvijay5/quizer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvijay5&repo=getyourstay&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvijay5&repo=quizer&theme=tokyonight" />
   </a>
 </div>
 
